@@ -1,2 +1,3 @@
 Hello Artifactory and Sonar
 This is for testing only
+This is for testing the docker slave
